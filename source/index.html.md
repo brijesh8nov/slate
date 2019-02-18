@@ -25,6 +25,8 @@ We have language bindings in Shell, Ruby, Python, and JavaScript! You can view c
 
 This example API documentation page was created with [Slate](https://github.com/lord/slate). Feel free to edit it and use it as a base for your own API's documentation.
 
+Changing the introduction - this will be used in Cypress Code examples.
+
 # Authentication
 
 > To authorize, use this code:
@@ -236,4 +238,3 @@ This endpoint deletes a specific kitten.
 Parameter | Description
 --------- | -----------
 ID | The ID of the kitten to delete
-
